@@ -4,3 +4,4 @@
 
 
 ![Авторизация](https://github.com/EdKhismatov/cookbook/blob/main/авторизация.png)
+![Регистрация](https://github.com/EdKhismatov/cookbook/blob/main/регистрация.png)
