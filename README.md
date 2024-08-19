@@ -7,6 +7,6 @@
 ![Регистрация](https://github.com/EdKhismatov/cookbook/blob/main/регистрация.png)
 
 
-<p>Главная страница</p>
+<h1>Главная страница</h1>
 
 ![Главная](https://github.com/EdKhismatov/cookbook/blob/main/главная.png)
