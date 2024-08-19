@@ -23,4 +23,5 @@
 
 
 <h1>Вкладка избранное, возможность удаления из избранного</h1>
+
 ![избранное](https://github.com/EdKhismatov/cookbook/blob/main/избранное2.png)
