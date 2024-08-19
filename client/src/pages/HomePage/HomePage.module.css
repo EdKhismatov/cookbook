@@ -1,0 +1,57 @@
+@import url(https://fonts.googleapis.com/css?family=Amatic+SC:400,700);
+
+.wrapper {
+  display: flex;
+
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  /* background-color: blanchedalmond; */
+  /* padding: 20px; */
+  background-image: url(https://bogatyr.club/uploads/posts/2023-03/1679113607_bogatyr-club-p-kukhnya-nochyu-fon-foni-pinterest-61.jpg);
+  background-attachment: fixed;
+  background-size: 100%; 
+
+}
+.header {
+  font-family: 'Amatic SC', cursive;
+  font-size: 80px;
+  font-weight: none;
+  display: flex;
+  justify-content: center;
+  z-index: 200;
+}
+.fon {
+  background-image: url(https://bogatyr.club/uploads/posts/2023-03/1679113607_bogatyr-club-p-kukhnya-nochyu-fon-foni-pinterest-61.jpg);
+  background-attachment: fixed;
+  background-size: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  /* height: 100vh; */
+  justify-content: center;
+  z-index: 0;
+}
+ body {
+  margin: 0;
+  padding: 0;
+   /* animation: color 9s infinite linear;  */
+   /* padding: 20px;
+  background-image: url(https://bogatyr.club/uploads/posts/2023-03/1679113607_bogatyr-club-p-kukhnya-nochyu-fon-foni-pinterest-61.jpg);
+  background-attachment: fixed;
+  background-size: 100%;  */
+
+}
+
+/* @keyframes color {
+  0%   { background: #33CCCC; }
+  20%  { background: #33CC36; }
+  40%  { background: #B8CC33; }
+  60%  { background: #FCCA00; }
+  80%  { background: #33CC36; }
+  100% { background: #33CCCC; }
+} */

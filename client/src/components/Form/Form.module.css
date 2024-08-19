@@ -1,0 +1,97 @@
+@import url(https://fonts.googleapis.com/css?family=Amatic+SC:400,700);
+.wrapper {
+  display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+  /* justify-content: space-evenly;  */
+  border-radius: 10px;
+  font-family: 'Amatic SC', cursive;
+  font-size: 30px; 
+  /* width: 200px; */
+  margin-bottom: 50px;
+}
+
+.form {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.cards {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  width: 100%;
+  /* position: relative; */
+}
+
+.oneCard {
+  margin: 20px;
+  border-style: none;
+  width: 470px;
+}
+
+.head {
+  margin-bottom: 20px;
+}
+
+.title1,
+.title2 {
+  color: black;
+  font-family: 'Amatic SC', cursive;
+  font-weight: none;
+  margin: 10px;
+  display: flex;
+  justify-content: center;
+}
+
+.title1 {
+  font-size: 60px;
+}
+
+.title2 {
+  font-size: 40px;
+}
+.header {
+  font-family: 'Amatic SC', cursive;
+  font-size: 80px;
+  font-weight: none;
+  display: flex;
+  justify-content: center;
+  z-index: 200;
+}
+/* .inputs {
+  width: 100%;
+  height: 90px;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: stretch;
+} */
+
+.btns {
+  margin-top: 20px;
+}
+
+.btnHard {
+  display: flex;
+  justify-content: flex-start;
+  position: relative;
+  left: 180px;
+  /* width: 100px;
+ height: 100px; */
+}
+/* .todoContainer {
+  color: black;
+} */
+
+.submitButton {
+  background-color: aquamarine;
+}
+
+.button {
+  background-color: blueviolet;
+}
