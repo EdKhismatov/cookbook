@@ -25,3 +25,8 @@
 <h2>Вкладка избранное, возможность удаления из избранного</h2>
 
 ![избранное](https://github.com/EdKhismatov/cookbook/blob/main/избранное2.png)
+
+<h2>Отдельная страницв рецепта</h2>
+
+![избранное](https://github.com/EdKhismatov/cookbook/blob/main/описание.png)
+
