@@ -26,7 +26,7 @@
 
 ![избранное](https://github.com/EdKhismatov/cookbook/blob/main/избранное2.png)
 
-<h2>Отдельная страницв рецепта</h2>
+<h2>Отдельная страница рецепта</h2>
 
 ![Рецепт](https://github.com/EdKhismatov/cookbook/blob/main/описание.png)
 ![Рецепт](https://github.com/EdKhismatov/cookbook/blob/main/Страница%20рецепта.png)
