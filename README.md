@@ -28,5 +28,5 @@
 
 <h2>Отдельная страницв рецепта</h2>
 
-![избранное](https://github.com/EdKhismatov/cookbook/blob/main/описание.png)
-
+![Рецепт](https://github.com/EdKhismatov/cookbook/blob/main/описание.png)
+![Рецепт](https://github.com/EdKhismatov/cookbook/blob/main/Страница%20рецепта.png)
